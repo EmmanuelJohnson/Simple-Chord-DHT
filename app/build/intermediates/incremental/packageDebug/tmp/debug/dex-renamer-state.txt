@@ -1,0 +1,4 @@
+#Wed Apr 10 23:28:25 EDT 2019
+base.0=/Users/bobbyda/ds/PA3/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
